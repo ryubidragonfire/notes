@@ -12,7 +12,7 @@ To show remote origin:
 
 `git remote show origin`
 
-To update the PR with additional changes, edit your files in your branch - then, commit the changes and push them to GitHub:
+To update the Pull Request with additional changes, edit your files in your branch - then, commit the changes and push them to GitHub:
 ```
 git checkout NAME_OF_YOUR_BRANCH
 # Make changes, stage all changes for commit
