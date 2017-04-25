@@ -1,10 +1,11 @@
 https://en.wikipedia.org/wiki/Generative_adversarial_networks
 - type of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks competing against each other in a zero-sum game framework.
   - https://en.wikipedia.org/wiki/Generative_model
-    -  a generative model is a model for randomly generating observable data values, typically given some hidden parameters. It specifies a joint probability distribution over observation and label sequences. Generative models are used in machine learning for either modeling data directly (i.e., modeling observations drawn from a probability density function), or as an intermediate step to forming a conditional probability density function. A conditional distribution can be formed from a generative model through Bayes' rule.
+    -  a ***generative model*** is a model for randomly generating observable data values, typically given some hidden parameters. It specifies a **joint probability distribution** over observation and label sequences. 
+    - are used in machine learning for either ***modeling data directly*** (i.e., modeling observations drawn from a probability density function), or as an **intermediate step to forming a conditional probability density function**. A conditional distribution can be formed from a generative model through Bayes' rule.
   - https://en.wikipedia.org/wiki/Discriminative_model
-    - also called conditional models, are a class of models used in machine learning for modeling the dependence of an unobserved variable {\displaystyle y} y on an observed variable {\displaystyle x} x. Within a probabilistic framework, this is done by modeling the conditional probability distribution {\displaystyle P(y|x)} P(y|x), which can be used for predicting {\displaystyle y} y from {\displaystyle x} x.
-Discriminative models, as opposed to generative models, do not allow one to generate samples from the joint distribution of {\displaystyle x} x and {\displaystyle y} y. 
+    - a ***discriminative model***, also called ***conditional models***, are a class of models used in machine learning for **modeling the dependence of an unobserved variable *y* on an observed variable *x***. Within a probabilistic framework, this is done by modeling the conditional probability distribution P(y|x)} P(y|x), which can be used for predicting ***y*** from ***x***.
+    - ***Discriminative models***, as opposed to ***generative models***, do not allow one to generate samples from the joint distribution of  ***x*** and ***y***. 
 
 - One network is *generative* and one is *discriminative*.[1] 
   - The ***generative network*** is taught to map from a **latent space** to a particular data distribution of interest.
