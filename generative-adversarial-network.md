@@ -51,3 +51,7 @@ Ian Goodfellow: https://www.youtube.com/watch?v=HN9NRhm9waY
  - speech synthesis (e.g. wavenet: currently sequential process)
  - video generator (with wavenet)
  - can be used in data compression? bi-directional GAN
+ 
+ ## Video on practicalities when training
+ - https://www.youtube.com/watch?v=X1mUN6dD8uE
+ 
