@@ -55,3 +55,5 @@ Ian Goodfellow: https://www.youtube.com/watch?v=HN9NRhm9waY
  ## Video on practicalities when training
  - https://www.youtube.com/watch?v=X1mUN6dD8uE
  
+ ## Video on unsupervised learning via GAN
+ - https://www.youtube.com/watch?v=QPkb5VcgXAM
